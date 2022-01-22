@@ -138,7 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1005_ACM Craft.cpp" />
+    <ClCompile Include="1005_ACM Craft_1.cpp" />
+    <ClCompile Include="1005_ACM Craft_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
