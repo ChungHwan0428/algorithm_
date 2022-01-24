@@ -15,19 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="24336_가희와 무궁화호.cpp">
+    <ClCompile Include="1715.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="24337_가희와 탑.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="24339_가희와 쓰레기 놀이.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="24338.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="24340_가희와 btd5 2.cpp">
+    <ClCompile Include="2109cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
