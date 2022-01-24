@@ -24,5 +24,8 @@
     <ClCompile Include="24339_가희와 쓰레기 놀이.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="24338.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
