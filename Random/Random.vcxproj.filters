@@ -51,5 +51,17 @@
     <ClCompile Include="2014_소수의 곱.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1826_연료 채우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3665_최종 순위.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17136_색종이 붙이기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17435_합성 함수와 커리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
