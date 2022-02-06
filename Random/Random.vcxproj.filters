@@ -63,5 +63,14 @@
     <ClCompile Include="17435_합성 함수와 커리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3037_혼란.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1486_등산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2233_사과나무.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
