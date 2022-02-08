@@ -18,5 +18,11 @@
     <ClCompile Include="21611_마법사 상어와 블리자드.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="19236_청소년 상어.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19237_어른 상어.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
