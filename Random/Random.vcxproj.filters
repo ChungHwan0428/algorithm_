@@ -78,5 +78,8 @@
     <ClCompile Include="5214_환승.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21609_상어 중학교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
