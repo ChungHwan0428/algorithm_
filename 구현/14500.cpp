@@ -1,3 +1,8 @@
+/*
+1) 나는 겹치는 경우 말고 모든 경우의 수를 그냥 배열로 나타내서 구했음.
+2) ㅜ 모양을 제외하고는 dfs로 회전, 대칭을 모두 표현가능하다. 따라서 ㅜ는 따로 구현하고, 나머지는 dfs로 진행.
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
