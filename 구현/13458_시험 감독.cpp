@@ -1,3 +1,8 @@
+/*
+int 자료형을 넘어간다. long long으로 문제를 해결해야함...
+주 감독관을 무조건 들어가므로 주 감독관이 감독할 수 있는 인원을 제외하고 남은 인원수 / 부 감독관이 감독가능한 인원수를 해서 구해준다.
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
