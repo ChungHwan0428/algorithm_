@@ -1,3 +1,8 @@
+/*
+사과를 먹지 못했을때 -> 지금까지 이동한 공간을 queue에 넣어서 진행함으로써 가장 처음에 넣었던 위치를 0 으로 만들어주면서 진행.
+
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
