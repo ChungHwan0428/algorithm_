@@ -24,5 +24,17 @@
     <ClCompile Include="19237_어른 상어.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3190_뱀.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13458_시험 감독.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14501_퇴사.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
