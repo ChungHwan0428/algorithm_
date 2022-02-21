@@ -1,3 +1,16 @@
+/*
+다익스트라 + dp
+
+처음 dp 설정시, dp[node] = {min, total} 형식으로 했음.
+
+나중에는 dp[node][min] = total 로 변경.
+
+처음 방식으로 하면 다익스트라 돌리는 경우, min, total 모두 dp에 있는 값보다 크다면 pq에 들어가지 않음. 너무 많은 경우의 수가 pq에 들어감. -> 너무 많은 시간 소요.
+
+나중 방식으로 변경 후, dp[node][min] 값보다 total이 작은 경우면 pq에 들어간다. -> 시간 괜찮.
+
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
