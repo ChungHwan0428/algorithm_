@@ -21,5 +21,11 @@
     <ClCompile Include="1086_박성원.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1028_다이아몬드 광산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13308_주유소.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
